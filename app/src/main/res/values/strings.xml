@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thimble_App</string>
+    <string name="first_btn">6 sided dice</string>
+    <string name="second_btn">20 sided dice</string>
+</resources>
